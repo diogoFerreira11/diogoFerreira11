@@ -11,6 +11,7 @@ I’m Diogo, an AI Enthusiast and Computer Vision Engineer exploring the fascina
 - Also knowledgeable in the field of robotics and automation: development of anti-error systems and vision-guided robots for pick-and-place tasks.
   
 💡 Always learning: Currently advancing my skills in TensorFlow and refreshing my knowledge of SQL.
+
 🎯 Beyond computer vision: My GitHub will explore diverse areas in computer vision, AI, automation and more.
 
 Let’s collaborate and innovate together! 🚀
