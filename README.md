@@ -6,12 +6,12 @@ I’m Diogo, an AI Enthusiast and Computer Vision Engineer exploring the fascina
 
 🌟 What I do:
 
-- Build applications for quality control inspections, like detecting defects in car painting, airbag fabrics, and fruits.
+- Build applications for quality control inspections, like for example, detecting defects in car painting, car parts, fruits, etc.
 - Work with metrology in computer vision to ensure precision and accuracy.
-- Leverage my background in robotics and automatisms, having developed systems like an anti-error mechanism for nut welding and vision-guided robots.
+- Also knowledgeable in the field of robotics and automation: development of anti-error systems and vision-guided robots for pick-and-place tasks.
   
 💡 Always learning: Currently advancing my skills in TensorFlow and refreshing my knowledge of SQL.
-🎯 Beyond computer vision: My GitHub explores diverse areas in computer vision, AI, automation and more.
+🎯 Beyond computer vision: My GitHub will explore diverse areas in computer vision, AI, automation and more.
 
 Let’s collaborate and innovate together! 🚀
 
